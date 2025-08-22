@@ -1,0 +1,11 @@
+{
+  "name": "calculator",
+  "version": "0.0.1",
+  "description": "Its a calculator that calculates things",
+  "main": "main.js",
+  "scripts": {
+    "test": "\"Entry ponter\""
+  },
+  "author": "challcrot",
+  "license": "MIT"
+}
